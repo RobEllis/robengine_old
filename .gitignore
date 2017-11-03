@@ -1,0 +1,8 @@
+# Visual Studio
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
