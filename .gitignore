@@ -6,3 +6,6 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+
+/packages
+!packages/repositories.config
